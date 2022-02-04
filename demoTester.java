@@ -6,6 +6,6 @@ public class demoTester {
     @Test
     public void multiply1() {
         demo1 = new Demo();
-        assertEquals(4, demo1.multiply(1,5));
+        assertEquals(5, demo1.multiply(1,5));
     }
 }
